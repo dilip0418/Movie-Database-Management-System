@@ -15,7 +15,7 @@ Requirements:
   
 How to set-up in your pc:
 1. Create a folder.
-1. Download all the files in the repo into thaat folder.
+1. Download all the files in the repo into that folder.
 2. Open MySQL workbench and create a database and name as "moviedb".
 3. Import the .sql file into the moviedb database 
 4. Check each file and change the "username" and "password" accorrdingly.
