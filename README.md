@@ -19,4 +19,4 @@ How to set-up in your pc:
 2. Open MySQL workbench and create a database and name as "moviedb".
 3. Import the .sql file into the moviedb database 
 4. Check each file and change the "username" and "password" accordingly.
-5. And BOOM run the project to chceckout the output.
+5. And BOOM run the project to checkout the output.
