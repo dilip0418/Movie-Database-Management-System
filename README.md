@@ -18,5 +18,5 @@ How to set-up in your pc:
 1. Download all the files in the repo into that folder.
 2. Open MySQL workbench and create a database and name as "moviedb".
 3. Import the .sql file into the moviedb database 
-4. Check each file and change the "username" and "password" accorrdingly.
+4. Check each file and change the "username" and "password" accordingly.
 5. And BOOM run the project to chceckout the output.
