@@ -1,5 +1,5 @@
 # Movie-Database-Management-System
-A desktop application which enable users to store and access the information about the movies and other information related to movies. 
+A simple desktop application which enable users to store and access the information about the movies and other information related to movies. 
 
 Requirements:
 
